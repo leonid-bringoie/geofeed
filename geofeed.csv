@@ -1,3 +1,6 @@
 # prefix,country_code,region_code,city,postal
 81.22.196.0/22,IE,IE-L,Dublin,D02 VK60
 2a13:24c0::/29,IE,IE-L,Dublin,D02 VK60
+46.174.88.0/22,IE,IE-L,Dublin,D02 VK60
+46.174.92.0/22,IE,IE-L,Dublin,D02 VK60
+93.187.71.0/24,IE,IE-L,Dublin,D02 VK60
